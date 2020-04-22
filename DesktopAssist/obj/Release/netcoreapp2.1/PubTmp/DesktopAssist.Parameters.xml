@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="DesktopAssist" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\My\ WorkSpace\\VS2019\\DesktopAssist\\DesktopAssist\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

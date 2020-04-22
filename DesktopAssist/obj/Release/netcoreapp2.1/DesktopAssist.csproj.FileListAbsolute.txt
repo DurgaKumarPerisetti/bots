@@ -1,0 +1,16 @@
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\bin\Release\netcoreapp2.1\DesktopAssist.deps.json
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\bin\Release\netcoreapp2.1\DesktopAssist.runtimeconfig.json
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\bin\Release\netcoreapp2.1\DesktopAssist.runtimeconfig.dev.json
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\bin\Release\netcoreapp2.1\DesktopAssist.dll
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\bin\Release\netcoreapp2.1\DesktopAssist.pdb
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\obj\Release\netcoreapp2.1\DesktopAssist.csprojAssemblyReference.cache
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\obj\Release\netcoreapp2.1\DesktopAssist.csproj.CoreCompileInputs.cache
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\obj\Release\netcoreapp2.1\DesktopAssist.RazorAssemblyInfo.cache
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\obj\Release\netcoreapp2.1\DesktopAssist.RazorAssemblyInfo.cs
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\obj\Release\netcoreapp2.1\DesktopAssist.AssemblyInfoInputs.cache
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\obj\Release\netcoreapp2.1\DesktopAssist.AssemblyInfo.cs
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\obj\Release\netcoreapp2.1\DesktopAssist.RazorTargetAssemblyInfo.cache
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\obj\Release\netcoreapp2.1\DesktopAssist.dll
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\obj\Release\netcoreapp2.1\DesktopAssist.pdb
+E:\My WorkSpace\VS2019\DesktopAssist\DesktopAssist\obj\Release\netcoreapp2.1\DesktopAssist.genruntimeconfig.cache
